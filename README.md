@@ -1,4 +1,4 @@
-Here's the GitHub repository description for your project, formatted for easy copying:
+
 
 ---
 
@@ -58,4 +58,4 @@ Speak the following commands to interact with the assistant:
 
 
 
-You can copy and paste this directly into your GitHub repository's description section.
+
