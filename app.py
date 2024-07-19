@@ -6,7 +6,7 @@ import re
 from vision import capture_and_save_image
 
 
-genai.configure(api_key="AIzaSyAHJzeWbF7nOc6_Op_r7ZL1DaEqIVAA4iY")
+genai.configure(api_key="YOUR API KEY HERE")
 
 def main():
     # Initialize the recognizer
